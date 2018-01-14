@@ -16,3 +16,7 @@ Provide simple examples for Git training.
 This is a simlel web project, deployment can be on any web server.
 
 ## How To Contribute
+
+## Copyright
+
+2108 Bob's Garage
