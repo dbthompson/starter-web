@@ -22,4 +22,4 @@ Please fork this repository and the issue Pull Requests for review.
 
 ## Copyright
 
-2108 Bob's Garage
+2108 Bob's Garage. All rights reserved.
