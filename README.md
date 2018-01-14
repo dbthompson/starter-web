@@ -17,6 +17,8 @@ This is a simlel web project, deployment can be on any web server.
 
 ## How To Contribute
 
+Pleas fork this repository and the issue Pull Requests for review 
+
 ## Copyright
 
 2108 Bob's Garage
